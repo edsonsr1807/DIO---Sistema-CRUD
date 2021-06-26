@@ -1,0 +1,13 @@
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\bin\Debug\netcoreapp3.1\SI_Cadastro.exe
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\bin\Debug\netcoreapp3.1\SI_Cadastro.deps.json
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\bin\Debug\netcoreapp3.1\SI_Cadastro.runtimeconfig.json
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\bin\Debug\netcoreapp3.1\SI_Cadastro.runtimeconfig.dev.json
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\bin\Debug\netcoreapp3.1\SI_Cadastro.dll
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\bin\Debug\netcoreapp3.1\SI_Cadastro.pdb
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.csprojAssemblyReference.cache
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.AssemblyInfoInputs.cache
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.AssemblyInfo.cs
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.csproj.CoreCompileInputs.cache
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.dll
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.pdb
+D:\edson\Documents\Estudos\.net\Sistema_Cad\SI_Cadastro\obj\Debug\netcoreapp3.1\SI_Cadastro.genruntimeconfig.cache

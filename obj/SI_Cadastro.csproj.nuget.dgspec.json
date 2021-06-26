@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\edson\\Documents\\Estudos\\.net\\Sistema_Cad\\SI_Cadastro\\SI_Cadastro.csproj": {}
+  },
+  "projects": {
+    "D:\\edson\\Documents\\Estudos\\.net\\Sistema_Cad\\SI_Cadastro\\SI_Cadastro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\edson\\Documents\\Estudos\\.net\\Sistema_Cad\\SI_Cadastro\\SI_Cadastro.csproj",
+        "projectName": "SI_Cadastro",
+        "projectPath": "D:\\edson\\Documents\\Estudos\\.net\\Sistema_Cad\\SI_Cadastro\\SI_Cadastro.csproj",
+        "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
+        "outputPath": "D:\\edson\\Documents\\Estudos\\.net\\Sistema_Cad\\SI_Cadastro\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
